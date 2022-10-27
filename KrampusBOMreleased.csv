@@ -1,0 +1,21 @@
+﻿Id,Designator,Package,Qty kit,Qty PCB,Designation,Manufacturer,Manufacturer Part Number
+1,"SW1, SW2",SW_SPDT_PCM12,3,2,SW_SPDT,Daier,MSK-12C02
+2,BT1,BatteryHolder_CR2032_SMT,1,1,CR2032,Hongkong RTL,BK-912
+3,"D3,D4,D5,D6,D2,D1",LED_1204_RTA_2P,7,6,LED,Lite-On,LTST-S110KRKT
+4,"R3,R8",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,3,2,100k,Stackpole,RMCF1206FT100K
+5,"R1,R2,R5,R6,R7,R4",R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,7,6,220,Stackpole,RMCF1206FT220R
+6,U1,SOT-23-6_Handsoldering,1,1,ATtiny4-TS-PROG,Microchip,ATTINY4-TSHR
+7,C1,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,2,1,0.1,Samsung,CL31B104KBCNNNC
+8,"Q1,Q2",SOT-23-3,3,2,Q_NMOS_GSD,NXP,"2N7002P,215"
+,,PCB,1,1,,,
+,,,,,,,
+,,All kits:,,,,,
+,,"jump rings, brass, 10mm round, 8mm ID, 18 gauge",4,0,,Fire Mtn Gems,H20-5304FD
+,,"chain, 3mm x 5mm twisted oval links, brass",1,0,,,
+,,CR2032 battery,1,0,,PKCell,
+,,sticky pin,1,0,,,
+,,"magnet, 10mm x 3mm rare earth",1,0,,,
+,,,,,,,
+,,Hacker Challenge Kit:,,,,,
+,,USBasp Programmer (updated for TPI),1,0,,,
+,,Pogo PCB Kit,1,0,,Alpenglow Ind,ISP-0002
